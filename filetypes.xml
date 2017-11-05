@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="zip" type="ARCHIVE" />
+      <removed_mapping ext="egg" type="ARCHIVE" />
+      <removed_mapping ext="jar" type="ARCHIVE" />
+      <removed_mapping ext="swc" type="ARCHIVE" />
+      <removed_mapping ext="ear" type="ARCHIVE" />
+      <removed_mapping ext="war" type="ARCHIVE" />
+    </extensionMap>
+  </component>
+</application>

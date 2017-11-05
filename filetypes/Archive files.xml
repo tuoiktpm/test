@@ -1,0 +1,20 @@
+<filetype binary="false" description="Archive files" name="Archive files">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords ignore_case="false" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="war" />
+    <mapping ext="swc" />
+    <mapping ext="zip" />
+    <mapping ext="egg" />
+    <mapping ext="jar" />
+    <mapping ext="ear" />
+  </extensionMap>
+</filetype>
